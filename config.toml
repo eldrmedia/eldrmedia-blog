@@ -1,0 +1,15 @@
+baseURL = "https://blog.eldrmedia.com"
+languageCode = "en-us"
+title = "Eldr Media Blog"
+theme = "default"
+
+paginate = 6
+[social]
+  github = "https://github.com/eldrmedia"
+  behance = "https://www.behance.net/eldrmedia"
+  dribbble = "#"
+  instagram = "https://www.instagram.com/eldrmedia/"
+  linkedin = "https://www.linkedin.com/in/williamelder/"
+
+[taxonomies]
+  author = "authors"
