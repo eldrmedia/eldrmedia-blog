@@ -3,6 +3,7 @@ title: Math Typesetting
 date: 2019-03-08
 hero: /images/hero-6.jpg
 excerpt: A brief guide to setup KaTeX
+draft: true
 authors:
   - Will Elder
 
