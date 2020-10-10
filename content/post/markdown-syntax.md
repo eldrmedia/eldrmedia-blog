@@ -4,10 +4,9 @@ date: 2019-03-11
 hero: "/images/hero-2.jpg"
 excerpt: Sample article showcasing basic Markdown syntax and formatting for HTML elements.
 authors:
-  - Will Elder
+- Will Elder
 
 ---
-
 This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
 <!--more-->
 
