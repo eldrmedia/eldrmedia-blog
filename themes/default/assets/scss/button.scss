@@ -1,0 +1,37 @@
+.button.button-border {
+  border: 2px solid #444;
+  background-color: transparent;
+  color: #333;
+  line-height: 36px;
+  font-weight: 700;
+  text-shadow: none;
+}
+.button {
+  display: inline-block;
+  position: relative;
+  cursor: pointer;
+  outline: none;
+  white-space: nowrap;
+  margin: 5px;
+  padding: 0 22px;
+  font-size: 14px;
+  height: 40px;
+  line-height: 40px;
+  background-color: #f9ad19;
+  color: #FFF;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  border: none;
+  text-shadow: 1px 1px 1px rgba(0,0,0,0.2);
+  text-decoration: none;
+
+  &.button-border:not(.button-fill):hover {
+    background-color: #444;
+    color: #FFF;
+    border-color: transparent !important;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.2);
+    text-decoration: none;
+  }
+
+}
