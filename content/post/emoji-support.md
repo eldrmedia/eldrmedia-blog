@@ -5,6 +5,7 @@ hero: "/images/hero-3.jpg"
 excerpt: Guide to emoji usage in Hugo
 authors:
 - Will Elder
+draft: true
 
 ---
 Emoji can be enabled in a Hugo project in a number of ways.
