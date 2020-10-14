@@ -30,5 +30,3 @@ fields:
   type: tag_list
   default: []
   label: Authors
-pages:
-- content/post/how-to-build-and-deploy-a-hugo-site.md
