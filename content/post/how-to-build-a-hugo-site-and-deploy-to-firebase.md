@@ -1,7 +1,7 @@
 ---
 title: Build a Hugo Site and Deploy to Firebase
-date: 2020-10-14T19:00:00Z
-hero: "/images/hero-hugo-github-firebase.jpg"
+date: 2020-10-14T19:00:00.000+00:00
+hero: static/images/hero-hugo-github-firebase.jpg
 excerpt: Step by step, build a hugo site.
 authors:
 - Will Elder
@@ -34,5 +34,3 @@ Use the command line below to create a new site.
 ```html
 hugo new site your-new-site
 ```
-
-![](/images/hero-hugo-github-firebase.jpg)
