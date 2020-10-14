@@ -21,7 +21,7 @@ brew install hugo
 
 ### 2. Create a New Site
 
-Navigation to your folder where you want your new site to live. For example, I would like to have mine under repos folder
+Navigation to your folder where you want your new site to live. For example, I would like to have mine under the `repos` folder
 
 ```html
 cd ~/repos/
