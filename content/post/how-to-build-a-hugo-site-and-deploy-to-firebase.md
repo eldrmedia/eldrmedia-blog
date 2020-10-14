@@ -16,6 +16,7 @@ On of the many benefits of working in tech is that you’re surrounded by smart 
 ### 1. Install Hugo
 
 Install Hugo on your machine using [Homebrew](https://brew.sh/)
+
 ```html
 brew install hugo
 ```
@@ -29,6 +30,9 @@ cd ~/repos/
 ```
 
 Use the command line below to create a new site.
+
 ```html
 hugo new site your-new-site
 ```
+
+![](/images/hero-hugo-github-firebase.jpg)
