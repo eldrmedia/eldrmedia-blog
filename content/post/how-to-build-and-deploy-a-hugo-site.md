@@ -2,7 +2,7 @@
 authors = []
 date = 2020-10-14T19:00:00Z
 excerpt = ""
-hero = ""
+hero = "/static/images/hero-hugo-github-firebase.jpg"
 title = "Build a Hugo Site and Deploy to Firebase"
 
 +++
@@ -23,7 +23,7 @@ brew install hugo
 
 Navigation to your folder where you want your new site to live. For example, I would like to have mine under the `repos` folder
 
-```html
+```html![](/static/images/hero-hugo-github-firebase.jpg)
 cd ~/repos/
 ```
 
