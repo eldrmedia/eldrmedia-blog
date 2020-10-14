@@ -18,7 +18,7 @@ Install Hugo on your machine using [Homebrew](https://brew.sh/)
 
     brew install hugo
 
-### Step 2: Create a New Site
+### 2. Create a New Site
 
 Navigation to your folder where you want your new site to live. For example, I would like to have mine under repos folder
 
