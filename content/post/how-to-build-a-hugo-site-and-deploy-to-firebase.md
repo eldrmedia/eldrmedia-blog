@@ -1,9 +1,10 @@
 +++
-authors = []
-date = 2020-10-14T19:00:00Z
-excerpt = ""
-hero = "/static/images/hero-hugo-github-firebase.jpg"
-title = "Build a Hugo Site and Deploy to Firebase"
+authors:
+- Will Elder
+date: 2020-10-14T19:00:00Z
+excerpt: ""
+hero: "/static/images/hero-hugo-github-firebase.jpg"
+title: "Build a Hugo Site and Deploy to Firebase"
 
 +++
 ## Why Hugo?
