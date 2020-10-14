@@ -15,15 +15,19 @@ On of the many benefits of working in tech is that you’re surrounded by smart 
 ### 1. Install Hugo
 
 Install Hugo on your machine using [Homebrew](https://brew.sh/)
-
-    brew install hugo
+```html
+brew install hugo
+```
 
 ### 2. Create a New Site
 
 Navigation to your folder where you want your new site to live. For example, I would like to have mine under repos folder
 
-    cd ~/repos/
+```html
+cd ~/repos/
+```
 
 Use the command line below to create a new site.
-
-    hugo new site your-new-site
+```html
+hugo new site your-new-site
+```
