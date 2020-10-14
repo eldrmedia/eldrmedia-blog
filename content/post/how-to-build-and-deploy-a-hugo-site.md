@@ -3,7 +3,7 @@ authors = []
 date = 2020-10-14T19:00:00Z
 excerpt = ""
 hero = ""
-title = "How to Build and Deploy a Hugo Site"
+title = "Build a Hugo Site and Deploy to Firebase"
 
 +++
 ## Why Hugo?
